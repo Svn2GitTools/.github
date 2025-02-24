@@ -6,6 +6,7 @@ Migrating from SVN to Git?  This organization provides a set of tools to streaml
 
 - **[SvnExporter Repo](https://github.com/Svn2GitTools/SvnExporter):**  A versatile library for exporting data from SVN repositories to different formats. Build custom migration scripts or tools with this library.
 - **[GitImporter Repo](https://github.com/Svn2GitTools/GitImporter):**  A robust library for incrementally importing revisions into Git. Ideal for complex or ongoing SVN to Git migrations.
+- **[SvnDumpParser Repo](https://github.com/Svn2GitTools/SvnDumpParser):**  A robust library for parsing Subversion (SVN) dump files.
 
 ### Conversion Tools (Ready-to-Use)
 
