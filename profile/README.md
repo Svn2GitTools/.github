@@ -10,7 +10,7 @@ Migrating from SVN to Git?  This organization provides a set of tools to streaml
 
 ### Conversion Tools (Ready-to-Use)
 
-- **[Svn2Git+cs Tool (git svn based)](https://github.com/Svn2GitTools/Svn2Git-cs):**  A command-line tool leveraging `git svn` for standard SVN to Git conversion. Suitable for basic migrations using established methods.
+- **[Svn2Git-cs Tool (git svn based)](https://github.com/Svn2GitTools/Svn2Git-cs):**  A command-line tool leveraging `git svn` for standard SVN to Git conversion. Suitable for basic migrations using established methods.
 - **[SvnRepo2Git (Fast Dump Conversion)](https://github.com/Svn2GitTools/SvnRepo2Git):**  Optimized for rapid conversion of SVN *dump files* to Git repositories.  Choose this for speed when migrating from dumps.
 - **[SvnDump2Git (Direct Repository Conversion)](https://github.com/Svn2GitTools/SvnDump2Git):**  Designed for direct conversion of a *live SVN repository* to Git.  Easy-to-use for migrating directly from your SVN server.
 
